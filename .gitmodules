@@ -1,0 +1,15 @@
+[submodule "vendor/appointment-engine"]
+	path = vendor/appointment-engine
+	url = https://github.com/aekiratli/appointment-engine.git
+[submodule "vendor/kortgo"]
+	path = vendor/kortgo
+	url = https://github.com/kn8a/kortgo.git
+[submodule "vendor/sport-booking-api"]
+	path = vendor/sport-booking-api
+	url = https://github.com/kn8a/sport-booking-api.git
+[submodule "vendor/librebooking"]
+	path = vendor/librebooking
+	url = https://github.com/LibreBooking/librebooking.git
+[submodule "vendor/ep3-bs"]
+	path = vendor/ep3-bs
+	url = https://github.com/tkrebs/ep3-bs.git
